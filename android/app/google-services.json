@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375245860765",
+    "project_id": "ratatouille23-ccbe5",
+    "storage_bucket": "ratatouille23-ccbe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375245860765:android:e04e640cc4aef6d5918974",
+        "android_client_info": {
+          "package_name": "com.example.ratatouille23"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdfJoIKaEbEhPmhYcQx3kMb-ty1pr08Sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

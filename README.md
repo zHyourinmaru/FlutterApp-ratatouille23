@@ -1,2 +1,3 @@
-# FlutterApp-ratatouille23
-University Project: Flutter app for restaurant management
+# Ratatouille23
+
+University project in Flutter for the management of restaurants.
